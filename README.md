@@ -1,12 +1,12 @@
 # JS Fastify Blog
 
-![push](https://github.com/ssssank/devops-fastify/actions/workflows/workflow/badge.svg)
+![push](https://github.com/ssssank/devops-fastify/actions/workflows/workflow.yml/badge.svg)
 
 
 ## Setup
 
 ```bash
-make install
+make setup
 ```
 
 ## Run tests
