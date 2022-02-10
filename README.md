@@ -2,7 +2,6 @@
 
 ![push](https://github.com/ssssank/devops-fastify/actions/workflows/workflow.yml/badge.svg)
 
-
 ## Setup
 
 ```bash

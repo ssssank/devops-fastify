@@ -1,4 +1,4 @@
-name: p
+name: On push
 
 on:
   - push
@@ -19,7 +19,7 @@ jobs:
           CI: true
       - name: Run linter
         run: |
-          make linter
+          make lint
       - name: Run test
         run: |
           make test
